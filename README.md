@@ -1,4 +1,4 @@
-# email-server
+# Email Server and Client
 Email server and client made using Java
 
 This was made as a school project, and can be used by anyone affiliated with the TDSB (Toronto District School Board).
